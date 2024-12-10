@@ -1,5 +1,7 @@
 ## Next.js with GSAP Animation
 
+Deployment link - https://mellifluous-nasturtium-1d21ce.netlify.app/
+
 This project is a hands-on exploration of using the GSAP (GreenSock Animation Platform) library with Next.js. It demonstrates how to integrate GSAP animations seamlessly into a Next.js application to create smooth and engaging user experiences.
 
 ### Features
